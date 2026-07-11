@@ -92,10 +92,10 @@ Built a **KNN-based personalized diet recommendation engine** with feature scali
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|--------|------------|------|
-| 🎓 **MCA (Master of Computer Applications)** | IPS Academy, Indore | 2021 – 2028 |
-| 📘 **Higher Secondary (Class XII)** | Kendriya Vidyalaya, Mhow | 2020 – 2021 |
+| Degree | Institution |
+|--------|------------|
+| 🎓 **MCA (Master of Computer Applications)** | IPS Academy, Indore | 
+| 📘 **Higher Secondary (Class XII)** | Kendriya Vidyalaya, Mhow | 
 
 ---
 
